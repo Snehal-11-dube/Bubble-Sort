@@ -1,2 +1,3 @@
 # Bubble-Sort
-Sorting technique to sort Elements of an array in ascending order
+Sorting technique to sort Elements of an array in ascending order.
+Array input taken from user.
